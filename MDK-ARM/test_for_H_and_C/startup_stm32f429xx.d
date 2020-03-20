@@ -1,0 +1,1 @@
+test_for_h_and_c\startup_stm32f429xx.o: startup_stm32f429xx.s
